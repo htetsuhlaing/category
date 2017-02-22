@@ -1,0 +1,27 @@
+[
+ { 
+   "id":"1",
+   "name":"food",
+   "icon":"https://s4.postimg.org/d0hb8a98t/food.png"
+   },
+  {
+   "id":"2",
+   "name":"cafe",
+   "icon":"https://s7.postimg.org/xjpacb5qj/cafe.png"
+   },
+  {
+   "id":"3",
+   "name":"fashion",
+   "icon":"https://s27.postimg.org/s4e30catf/fashion.png"
+   },
+   {
+   "id":"4",
+   "name":"salon",
+   "icon":"https://s12.postimg.org/y6ju3w84t/salon.png"
+   },
+   {
+   "id":"5",
+   "name":"education",
+   "icon":"https://s4.postimg.org/5pwrsdpj1/edu.png"
+   }
+  ] 
